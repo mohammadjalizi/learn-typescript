@@ -1,1 +1,2 @@
-console.log(Math)
+let x=10;
+const y:string="hello"
